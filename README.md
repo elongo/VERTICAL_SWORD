@@ -1,6 +1,6 @@
 # VERTICAL SWORD - JOINING SYSTEM FOR SEISMIC BAMBOO MADE BUILDINGS
 
-[Request extra documentation clicking here: https://docs.google.com/presentation/d/1i6Y7WNNyaDYWwzJEaOtnihxBKvanofsTyfTvNwutfks/edit?usp=sharing]
+[Request additional documentation here: https://docs.google.com/presentation/d/1i6Y7WNNyaDYWwzJEaOtnihxBKvanofsTyfTvNwutfks/edit?usp=sharing]
 
 Joinery system is intended to work as a scalable solution, capable of supporting 3-4 stories of a bamboo building, complying with the Colombian building Code NSR-10. 
 
