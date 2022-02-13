@@ -1,2 +1,10 @@
 # vertical_sword
 JOINING SYSTEM FOR SEISMIC BAMBOO MADE BUILDINGS
+
+STEEL A36 DENSITY: 7.85 g/cm 3
+
+Steel joinery is intended to work as a scalable solution, capable of supporting 3-4 stories of a bamboo building, complying with the Colombian building Code NSR-10. 
+
+The whole booHouse System is designed under the principles of Design for Disassembly, to ensure a better life cycle management and handle CO2 leakage.
+
+Built to support homes for >100 years.
