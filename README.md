@@ -1,4 +1,4 @@
-# VERTICAL SWORD - JOINING SYSTEM FOR SEISMIC BAMBOO MADE BUILDINGS
+# VERTICAL SWORD - JOINING SYSTEM FOR SEISMIC RESISTANT, MODULAR AND SCALABLE BAMBOO MADE BUILDINGS.
 
 [Request additional documentation here: https://docs.google.com/presentation/d/1i6Y7WNNyaDYWwzJEaOtnihxBKvanofsTyfTvNwutfks/edit?usp=sharing]
 
