@@ -1,5 +1,4 @@
-# vertical_sword
-JOINING SYSTEM FOR SEISMIC BAMBOO MADE BUILDINGS
+# VERTICAL SWORD - JOINING SYSTEM FOR SEISMIC BAMBOO MADE BUILDINGS
 
 [Request extra documentation clicking here: https://docs.google.com/presentation/d/1i6Y7WNNyaDYWwzJEaOtnihxBKvanofsTyfTvNwutfks/edit?usp=sharing]
 
